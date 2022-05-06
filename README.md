@@ -8,5 +8,6 @@ A preprint of the paper is available on the [arXive](http://arxiv-export3.librar
 
 Dependencies: [ga](http://www3.deis.unibo.it/Staff/FullProf/GiovanniMarro/geometric.htm) by G. Basile and G. Marro.
 
-Authors: Federico Celi and Fabio Pasqualetti
-Univeristy of California, Riverside
+Authors: **Federico Celi** and **Fabio Pasqualetti**
+
+_Univeristy of California, Riverside_
